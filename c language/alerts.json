@@ -1,0 +1,7 @@
+{
+  "total_requests": 8,
+  "sqli_count": 0,
+  "auth_failures": 3,
+  "path_traversal": 0,
+  "latency_ms": 222.000
+}
